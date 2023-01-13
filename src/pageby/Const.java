@@ -22,6 +22,14 @@ public class Const {
     	return T;
     	
     }
+    
+    Const(String d, String b){
+    	this.d=d;
+    	this.b=b;
+		
+	}
+    
+    
 	
 	
 
