@@ -29,8 +29,8 @@ public class Const {
 		
 	}
     
-    
-	
-	
-
-}
+    Const(int l){
+    	this.l=l;
+		
+	}
+    }
